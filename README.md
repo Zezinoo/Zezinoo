@@ -1,6 +1,7 @@
 - 👋 Hi, I’m José
-- 👀 I’m interested in C/C++ development, Mathematical Programming , Game Development and Web Development
-- 🌱 I’m currently learning Fullstack Development @Driven ; Applied and Computational Mathematics/Engineering Physics @Unicamp
+- 👀 I’m interested in C/C++ development, Mathematical Programming , Game Development and Web Development , Robotics and Autonomous Navigation
+- 🌱 I’m currently learning: -  Applied and Computational Mathematics/Engineering Physics @UNICAMP ; C# Development @UNICAMP
+- 💻 Currently working on SLAM related problems @Unicamp-Eracing
 - 💞️ I’m looking to collaborate on science-related projects
 - 📫 Feel free to reach me at josevitoralves561@gmail.com
 
