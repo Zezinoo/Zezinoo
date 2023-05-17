@@ -1,5 +1,5 @@
 - 👋 Hi, I’m José
-- 👀 I’m interested in C/C++ development, Mathematical Programming , Game Development and Web Development , Robotics and Autonomous Navigation
+- 👀 I’m interested in Mathematical Programming , Game Development, Robotics and Autonomous Navigation
 - 🌱 I’m currently learning: -  Applied and Computational Mathematics/Engineering Physics @UNICAMP ; C# Development @UNICAMP
 - 💻 Currently working on SLAM related problems @Unicamp-Eracing
 - 💞️ I’m looking to collaborate on science-related projects
